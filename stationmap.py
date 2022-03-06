@@ -100,7 +100,7 @@ table tr:last-child td:last-child {{
 
 
 
-st.set_page_config(page_title='Estações Apac', layout="centered", initial_sidebar_state='expanded')
+#st.set_page_config(page_title='Estações Apac', layout="centered", initial_sidebar_state='expanded')
 
 
 
